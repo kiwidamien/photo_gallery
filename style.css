@@ -2,8 +2,8 @@ body {
   background-color: black;
 }
 
-.galleria-container notouch {
+.mycontainer {
   margin: 0px;
-  max-width: 100%;
+  max-width: 90%;
   max-height: 90vh;
 }
